@@ -1,0 +1,15 @@
+C:\Users\yfvfy\source\repos\Zeidal\Zeidal\bin\Debug\net6.0\Zeidal.exe
+C:\Users\yfvfy\source\repos\Zeidal\Zeidal\bin\Debug\net6.0\Zeidal.deps.json
+C:\Users\yfvfy\source\repos\Zeidal\Zeidal\bin\Debug\net6.0\Zeidal.runtimeconfig.json
+C:\Users\yfvfy\source\repos\Zeidal\Zeidal\bin\Debug\net6.0\Zeidal.dll
+C:\Users\yfvfy\source\repos\Zeidal\Zeidal\bin\Debug\net6.0\Zeidal.pdb
+C:\Users\yfvfy\source\repos\Zeidal\Zeidal\obj\Debug\net6.0\Zeidal.csproj.AssemblyReference.cache
+C:\Users\yfvfy\source\repos\Zeidal\Zeidal\obj\Debug\net6.0\Zeidal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yfvfy\source\repos\Zeidal\Zeidal\obj\Debug\net6.0\Zeidal.AssemblyInfoInputs.cache
+C:\Users\yfvfy\source\repos\Zeidal\Zeidal\obj\Debug\net6.0\Zeidal.AssemblyInfo.cs
+C:\Users\yfvfy\source\repos\Zeidal\Zeidal\obj\Debug\net6.0\Zeidal.csproj.CoreCompileInputs.cache
+C:\Users\yfvfy\source\repos\Zeidal\Zeidal\obj\Debug\net6.0\Zeidal.dll
+C:\Users\yfvfy\source\repos\Zeidal\Zeidal\obj\Debug\net6.0\refint\Zeidal.dll
+C:\Users\yfvfy\source\repos\Zeidal\Zeidal\obj\Debug\net6.0\Zeidal.pdb
+C:\Users\yfvfy\source\repos\Zeidal\Zeidal\obj\Debug\net6.0\Zeidal.genruntimeconfig.cache
+C:\Users\yfvfy\source\repos\Zeidal\Zeidal\obj\Debug\net6.0\ref\Zeidal.dll
